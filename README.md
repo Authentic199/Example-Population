@@ -1,6 +1,6 @@
 This is example source code using Population.NET libraries
 
-- **Create Models**
+- **Models**
 
     ```csharp
     public class User : BaseEntity
@@ -60,7 +60,7 @@ This is example source code using Population.NET libraries
     }
 
     ```
-- **Create response DTOs**
+- **Response DTOs**
     ```csharp
     public class UserResponse : BaseEntity
     {
